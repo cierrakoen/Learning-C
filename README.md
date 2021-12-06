@@ -11,4 +11,5 @@ Below I have various C files that I created within my System Level Programming C
 9) swapAlpha.c : This program takes two users strings and switches the first strings numbers with the second strings letters.
 10) checkPasswd.c : Asks the user to make a password. If the user's password is under 10 characters 5 points are reduced for every character. If the user's password doesn't contain a capital letter, a lowercase letter, and a number then 20 points is deducted. If the user has more than 2 consecutive letters or numbers that are the same then 20 points will also be deducted. If the user's points are 30 or more the user will be asked to try again.
 11) help.sh & helpme.sh: The help.sh file is a text file that has 10 bash commands while the helpme.sh file lets a user find out what one of the 10 commands do in bash.
-12) 
+12) aod_num.c : Asks the user weather they want to sort a predetermined number list either by ascending or descending the list.
+13) 
